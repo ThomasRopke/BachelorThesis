@@ -10,7 +10,6 @@ import java.util.Map;
 import dtu.compute.dmb.tools.State;
 
 public class DropletState extends State {
-	
 	private List<Droplet> obstacles;
 	private Droplet droplet;
 	private Point location;

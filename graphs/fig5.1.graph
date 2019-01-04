@@ -1,0 +1,15 @@
+input:O10:R
+input:O11:R
+input:O1:S
+input:O2:R
+input:O9:B
+input:O12:S
+input:O14:R
+input:O15:B
+mix:O5:O10:O11
+mix:O3:O1:O2
+mix:O4:O3:O9
+mix:O6:O5:O4
+mix:O7:O4:O12
+mix:O13:O14:O15
+mix:O8:O7:O13

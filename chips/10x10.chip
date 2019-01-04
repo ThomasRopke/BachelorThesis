@@ -1,0 +1,6 @@
+10
+10
+input:0,2
+input:0,7
+input:-1,8
+output:5,-1
